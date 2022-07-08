@@ -1,6 +1,6 @@
 ﻿using System;
 namespace PolymorphismWithCsharp
-{//Static Polymorphism or Compilr timr polymorphism is achieved by
+{//Static Polymorphism or Compile time polymorphism is achieved by
 //Method Overloading
 //This is an example of Method Overloading
     class Method_Overloading
